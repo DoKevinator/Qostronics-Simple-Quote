@@ -1,0 +1,29 @@
+1. passive part: 20
+2. soic: 20
+3. sot: 20
+4. qfp 80 <: 20 
+5. qfp 80 >: 20
+6. qfn/lf: 20
+7. fbga/sbga: 20
+8. smt power modules: 20
+9. pin header: 20
+10. sma: 20
+11. plcc: 20
+12. bga small: 20
+13. ccga/bga 256 >: 20
+14. tsop: 20
+15. sw/relay/large inductor: 20
+16. shields: 20
+17. connector 5-20 pin: 20
+18. connector 20+pin: 20
+19. smt h/p: 20
+20. stamps: 20
+21. jumper: 20
+22. jumper--3in: 20
+23. jumper--5in: 20
+24. tcuts: 20
+25. leg lift: 20
+26. kepton mask: 20
+27. packaging: 20
+28. bom line item count: 20
+29. setup: 40
